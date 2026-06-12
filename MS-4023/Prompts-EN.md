@@ -44,6 +44,10 @@ Using the data in this file, create a combo chart that shows monthly spending ov
 ## Ordo - Sondage.xslx
 
 ```
+=COPILOT("Are you working?")
+```
+
+```
 =COPILOT("Detect the language of the text. Allowed outputs: English, French, Spanish, Portuguese, or Other. Return only one label with no explanation.",C2)
 ```
 
