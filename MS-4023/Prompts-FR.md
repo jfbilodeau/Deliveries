@@ -44,6 +44,10 @@ Résume le budget par secteur de coûts, identifie les valeurs inhabituelles ou 
 ## Ordo - Sondage.xslx
 
 ```
+En utilisant le classeur joint, analyse la feuille « Sondage Ordo ». Considère « Satisfaction (1–5) » comme le champ de cote et « Commentaires » comme la rétroaction qualitative. Crée un tableau en avec une ligne pour chaque niveau de satisfaction de 1 à 5, incluant le nombre de réponses, le pourcentage du total, le sentiment global pour ce niveau et les principaux thèmes identifiés dans les commentaires. Ajoute une dernière ligne avec le nombre total de réponses et la moyenne de satisfaction.
+```
+
+```
 =COPILOT("Est-ce que tu fonctionnes?")
 ```
 
