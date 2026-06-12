@@ -95,6 +95,10 @@ Utilise un langage clair et professionnel convenant à des exécutifs. Consolide
 Rédige un courriel concis et professionnel à Patti Fernandez et Miriam Graham. Joins le document de sommaire exécutif pour le projet Ordo. Indique brièvement de quoi traite le document sans répéter son contenu. Utilise un ton d’affaires soigné, garde le message court et inclus une formule de politesse invitant les questions ou les commentaires.
 ```
 
+```
+Enregistre le résumé et la chronologie dans un document Word nommé Eventments.docx
+```
+
 ## Présentation technique
 
 ```
