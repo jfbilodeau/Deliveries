@@ -11,7 +11,7 @@ Résume cette présentation en 6 points pour un employé général. Mets l’acc
 ```
 
 ```
-Résume cette présentation pour un employé non technique en 6 points. Inclus : ce qu’est Ordo, ce qui remplace quoi, la date de mise en service, la prise en charge linguistique, ce qui arrive à TaskStar et une phrase expliquant pourquoi c’est important.
+Résume cette présentation pour un employé non technique en 6 puces. Inclus : ce qu’est Ordo, ce qui remplace quoi, la date de mise en service, la prise en charge linguistique, ce qui arrive à TaskStar et une phrase expliquant pourquoi c’est important.
 ```
 
 ```
