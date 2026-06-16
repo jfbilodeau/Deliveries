@@ -114,7 +114,7 @@ Explique ce diagramme d’architecture en langage clair, sous forme de récit d�
 ```
 
 ```
-Crée une image claire du diagramme d’architecture d’Ordo et traduis-la en anglais.
+Crée une image claire du diagramme d’architecture d’Ordo et traduis-la en français.
 ```
 
 ```
