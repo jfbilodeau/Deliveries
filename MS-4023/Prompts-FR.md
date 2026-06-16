@@ -38,6 +38,10 @@ Résume le budget par secteur de coûts, identifie les valeurs inhabituelles ou 
 ```
 
 ```
+Remplissez le modèle ci-joint pour traiter la valeur négative du budget. Indiquez qu’il s’agit d’une erreur de saisie.
+```
+
+```
 À partir des données de ce fichier, crée un graphique combiné qui affiche les dépenses mensuelles dans le temps sous forme de colonnes et le total cumulatif des dépenses sous forme de ligne. Étiquette clairement les axes et inclus une légende.
 ```
 
