@@ -48,6 +48,10 @@ Remplissez le modèle ci-joint pour traiter la valeur négative du budget. Indiq
 ## Ordo - Sondage.xslx
 
 ```
+En utilisant le classeur joint, analyse la feuille « Sondage Ordo ». Considère « Satisfaction (1–5) » comme le champ de cote et « Commentaires » comme la rétroaction qualitative. Crée un tableau en avec une ligne pour chaque niveau de satisfaction de 1 à 5, incluant le nombre de réponses, le pourcentage du total, le sentiment global pour ce niveau et les principaux thèmes identifiés dans les commentaires. Ajoute une dernière ligne avec le nombre total de réponses et la moyenne de satisfaction.
+```
+
+```
 =COPILOT("Est-ce que tu fonctionnes?")
 ```
 
@@ -97,6 +101,10 @@ Le rapport doit comprendre :
 2. Un tableau des activités principales avec les colonnes suivantes : Date, Activité et Participants.
 Utilise un langage clair et professionnel convenant à des exécutifs. Consolide les renseignements de toutes les sources, évite les doublons et assure-toi que les dates et les participants sont clairement indiqués.
 Rédige un courriel concis et professionnel à Patti Fernandez et Miriam Graham. Joins le document de sommaire exécutif pour le projet Ordo. Indique brièvement de quoi traite le document sans répéter son contenu. Utilise un ton d’affaires soigné, garde le message court et inclus une formule de politesse invitant les questions ou les commentaires.
+```
+
+```
+Enregistre le résumé et la chronologie dans un document Word nommé Eventments.docx
 ```
 
 ## Présentation technique
