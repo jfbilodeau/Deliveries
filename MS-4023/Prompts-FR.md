@@ -1,5 +1,15 @@
 # Copilot est un partenaire pour les tâches à forte friction — pas un remplacement du jugement, de la confiance, de la discrétion ou de la coordination humaine.
 
+## Prompts de départ
+
+```
+Donne-moi un briefing de début de journée basé sur mes courriels, mes conversations Teams, mon calendrier, mes réunions et mes fichiers récents. Priorise les éléments urgents, résume ce qui a changé, identifie les personnes avec qui je devrais faire un suivi et dis-moi comment me préparer au mieux pour les réunions et engagements d’aujourd’hui.
+```
+
+```
+Rattrape-moi sur tout ce que j’ai manqué pendant mes deux semaines d’absence en examinant mes courriels, messages Teams, calendrier, transcriptions de réunions et documents partagés. Priorise les décisions importantes, les mesures à prendre, les enjeux non résolus, les mises à jour des clients ou de la direction, les échéances à venir et tout ce qui exige mon attention. Résume les principaux thèmes et souligne avec qui je devrais faire un suivi afin que je puisse me remettre rapidement à jour.
+```
+
 ## Ordo - Staff Presentation.pptx
 
 ```
@@ -127,14 +137,4 @@ Prépare une présentation en français et en anglais pour un auditoire techniqu
 
 ```
 À FAIRE : Planifier une rencontre avec Raul Razo, Lidia Holloway, Johanna Lorenz et Delia Dennis.
-```
-
-## Prompts de départ
-
-```
-Donne-moi un briefing de début de journée basé sur mes courriels, mes conversations Teams, mon calendrier, mes réunions et mes fichiers récents. Priorise les éléments urgents, résume ce qui a changé, identifie les personnes avec qui je devrais faire un suivi et dis-moi comment me préparer au mieux pour les réunions et engagements d’aujourd’hui.
-```
-
-```
-Rattrape-moi sur tout ce que j’ai manqué pendant mes deux semaines d’absence en examinant mes courriels, messages Teams, calendrier, transcriptions de réunions et documents partagés. Priorise les décisions importantes, les mesures à prendre, les enjeux non résolus, les mises à jour des clients ou de la direction, les échéances à venir et tout ce qui exige mon attention. Résume les principaux thèmes et souligne avec qui je devrais faire un suivi afin que je puisse me remettre rapidement à jour.
 ```
