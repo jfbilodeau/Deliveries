@@ -12,30 +12,44 @@
 
 Chat
 
-`Pouvez-vous fournir un bref historique du thé chai ?`
+```
+Pouvez-vous fournir un bref historique du thé chai ?
+```
 
 New slide
 
-`l’histoire du thé chai.`
+```
+l’histoire du thé chai.
+```
 
 ## Insérer une image
 
-`Créez une image mettant en vedette une personne sirotant une tasse de thé chaude.`
+```
+Créez une image mettant en vedette une personne sirotant une tasse de thé chaude.
+```
 
 ## Modifier le texte
 
 Select text:
 
-`Modifie le texte de cette diapositive pour le rendre plus concis`
+```
+Modifie le texte de cette diapositive pour le rendre plus concis
+```
 
 or
 
-`Rend ce texte plus captivant pour le lecteur`
+```
+Rend ce texte plus captivant pour le lecteur
+```
 
 or
 
-`Développez ce texte pour inclure des détails supplémentaires`
+```
+Développez ce texte pour inclure des détails supplémentaires
+```
 
 ## Organiser la présentation
 
-`Donnez-moi des conseils pour améliorer ma présentation, à la fois en général et diapositive par diapositive.`
+```
+Donnez-moi des conseils pour améliorer ma présentation, à la fois en général et diapositive par diapositive.
+```
