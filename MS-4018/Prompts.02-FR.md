@@ -1,12 +1,12 @@
 # Créer des présentations efficaces avec l’IA
 
-(https://learn.microsoft.com/fr-ca/training/modules/present-copilot-microsoft-powerpoint/)[https://learn.microsoft.com/fr-ca/training/modules/present-copilot-microsoft-powerpoint/]
+[https://learn.microsoft.com/fr-ca/training/modules/present-copilot-microsoft-powerpoint/](https://learn.microsoft.com/fr-ca/training/modules/present-copilot-microsoft-powerpoint/)
 
-(Plan de promotion du thé chaï en Amérique latine.docx)[https://microsoft-my.sharepoint.com/:w:/p/jbilodeau/cQri6ejQILi_RbA_eThHWqb8EgUCRYOLBmJWPc4awA-4qC-U3g]
+[Plan de promotion du thé chaï en Amérique latine.docx](https://github.com/jfbilodeau/Deliveries/blob/main/MS-4018/Files/Plan%20de%20promotion%20du%20th%C3%A9%20cha%C3%AF%20en%20Am%C3%A9rique%20latine.docx)
 
 ## Créer une présentation basée sur un document Word
 
-(https://powerpoint.new/)[https://powerpoint.new/]
+[https://powerpoint.new/](https://powerpoint.new/)
 
 ## Demandez à Copilot de vous aider à créer une diapositive supplémentaire
 

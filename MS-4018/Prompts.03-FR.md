@@ -1,14 +1,16 @@
 # MS-4018.02 - Word
 
-(https://learn.microsoft.com/fr-ca/training/modules/draft-impactful-documents-using-ai/4-exercise-write-document)[https://learn.microsoft.com/fr-ca/training/modules/draft-impactful-documents-using-ai/4-exercise-write-document]
+[https://learn.microsoft.com/fr-ca/training/modules/draft-impactful-documents-using-ai/4-exercise-write-document](https://learn.microsoft.com/fr-ca/training/modules/draft-impactful-documents-using-ai/4-exercise-write-document)
 
 ## Importer des notes
 
-(Rapport d’analyse de marché pour le thé chai premium Mystic Spice)[https://microsoft-my.sharepoint.com/:w:/p/jbilodeau/cQoKEb5anGs1RZRAYGubaJsdEgUC-6TFF1f4_qIIRga8v-EoKg]
+[Rapport d’analyse de marché pour le thé chai premium Mystic Spice.docx](https://github.com/jfbilodeau/Deliveries/blob/main/MS-4018/Files/Rapport%20d%E2%80%99analyse%20de%20march%C3%A9%20pour%20le%20th%C3%A9%20chai%20premium%20Mystic%20Spice.docx)
 
 `Rédiger une mise à jour de rapport de projet en fonction des notes sur Mystic Spice Premium Chai Tea dans OneNote.`
 
 ## Rédiger votre contenu
+
+[word.new](https://word.new/)
 
 `Créez un rapport de projet qui inclut un résumé exécutif, une introduction, une description du produit, des objectifs du projet et une discussion. Utilisez le document lié comme ressource de contenu.`
 `/Rapport d’analyse de marché pour le thé chai premium Mystic Spice.docx`
