@@ -11,9 +11,11 @@
 ## Demandez à Copilot de vous aider à créer une diapositive supplémentaire
 
 Chat
+
 `Pouvez-vous fournir un bref historique du thé chai ?`
 
 New slide
+
 `l’histoire du thé chai.`
 
 ## Insérer une image
@@ -23,10 +25,15 @@ New slide
 ## Modifier le texte
 
 Select text:
+
 `Modifie le texte de cette diapositive pour le rendre plus concis`
+
 or
+
 `Rend ce texte plus captivant pour le lecteur`
+
 or
+
 `Développez ce texte pour inclure des détails supplémentaires`
 
 ## Organiser la présentation
