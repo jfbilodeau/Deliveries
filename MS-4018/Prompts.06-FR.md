@@ -3,7 +3,7 @@
 ## Rédiger un e-mail avec Copilot pour Outlook
 
 ```
- des idées de brainstorming pour le lancement du plan de promotion du thé chaï en Amérique latine.'
+Rédiger un courriel avec des idées de brainstorming pour le lancement du plan de promotion du thé chaï en Amérique latine.'
 ```
 
 ```
