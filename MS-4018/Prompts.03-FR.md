@@ -10,6 +10,10 @@
 Rédiger une mise à jour de rapport de projet en fonction des notes sur Mystic Spice Premium Chai Tea dans OneNote.
 ```
 
+```
+Rédiger une mise à jour de rapport de projet en fonction des notes sur 
+```
+
 ## Rédiger votre contenu
 
 [word.new](https://word.new/)
